@@ -1,0 +1,434 @@
+{
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_edition": "2026-10-16",
+ "note": "Items are taken from the AffairsCloud digest of 16 Oct 2026 and cover 13–16 Oct 2026 news. Replace this feed with a newer one to keep it current.",
+ "items": [
+  {
+   "d": "2026-10-16",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "National",
+   "en": {
+    "t": "Cabinet approves Rs 53,428 crore for NSAP for 5 years",
+    "b": "The Union Cabinet approved continuing the National Social Assistance Programme for FY27 to FY31. It has been renamed Pradhan Mantri Samajik Sahayata Yojana. It also approved a Productivity-Linked Bonus of 78 days' wages for about 11.4 lakh non-gazetted Railway employees."
+   },
+   "hi": {
+    "t": "कैबिनेट ने NSAP के लिए 53,428 करोड़ रुपये को मंजूरी दी",
+    "b": "केंद्रीय कैबिनेट ने राष्ट्रीय सामाजिक सहायता कार्यक्रम (NSAP) को FY27 से FY31 तक जारी रखने को मंजूरी दी। इसका नाम बदलकर प्रधानमंत्री सामाजिक सहायता योजना कर दिया गया है। लगभग 11.4 लाख गैर-राजपत्रित रेलवे कर्मचारियों के लिए 78 दिन के वेतन के बराबर उत्पादकता-संबद्ध बोनस को भी मंजूरी मिली।"
+   }
+  },
+  {
+   "d": "2026-10-13",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "National",
+   "en": {
+    "t": "Five states to be permanent members of new GST Standing Committee",
+    "b": "Karnataka, Maharashtra, Uttar Pradesh, Gujarat and Tamil Nadu will be permanent members of a new 12-state GST Standing Committee. The Centre urged states to widen the taxpayer base using data analytics and technology."
+   },
+   "hi": {
+    "t": "GST की नई स्थायी समिति में पाँच राज्य स्थायी सदस्य",
+    "b": "कर्नाटक, महाराष्ट्र, उत्तर प्रदेश, गुजरात और तमिलनाडु 12 राज्यों की नई GST स्थायी समिति के स्थायी सदस्य होंगे। केंद्र ने राज्यों से डेटा विश्लेषण और तकनीक के उपयोग से करदाता आधार बढ़ाने का आग्रह किया।"
+   }
+  },
+  {
+   "d": "2026-10-13",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Sports",
+   "en": {
+    "t": "NSDF, SAI and IOCL partner for boxing; Rs 40 crore over two years",
+    "b": "NSDF, SAI and IOCL signed an MoU for a two-year investment of Rs 40 crore to support boxing talent identification and athlete development. IOCL provides funding through CSR, NSDF mobilises resources and SAI provides technical expertise."
+   },
+   "hi": {
+    "t": "मुक्केबाज़ी के लिए NSDF, SAI और IOCL की साझेदारी",
+    "b": "NSDF, SAI और IOCL ने मुक्केबाज़ी प्रतिभा की पहचान और खिलाड़ियों के विकास के लिए दो वर्ष में 40 करोड़ रुपये के निवेश का समझौता किया। IOCL CSR के माध्यम से धनराशि देगी, NSDF संसाधन जुटाएगा और SAI तकनीकी विशेषज्ञता देगा।"
+   }
+  },
+  {
+   "d": "2026-10-13",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Defence & Transport",
+   "en": {
+    "t": "Shipbuilding credit risk insurance products launched",
+    "b": "Union Minister Sarbananda Sonowal launched two credit risk insurance policies for shipbuilding at the 21st Maritime State Development Council in Mumbai. ECGC developed the export policy and New India Assurance developed the domestic policy."
+   },
+   "hi": {
+    "t": "जहाज़ निर्माण उद्योग के लिए क्रेडिट रिस्क बीमा उत्पाद",
+    "b": "केंद्रीय मंत्री सर्बानंद सोनोवाल ने मुंबई में 21वीं समुद्री राज्य विकास परिषद की बैठक में जहाज़ निर्माण के लिए दो क्रेडिट रिस्क बीमा पॉलिसी शुरू कीं। निर्यात पॉलिसी ECGC ने और घरेलू पॉलिसी न्यू इंडिया एश्योरेंस ने विकसित की।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Rural Development",
+   "en": {
+    "t": "Ministry of Rural Development signs MoU with National Academy of RUDSETI",
+    "b": "The MoU sets uniform training standards across RSETIs nationwide and covers candidate registration through Kaushal Panjee and Aadhaar-based face authentication via AEBAS. The National SARAS Mela 2026 was held in Vijayawada, its first edition outside Delhi-NCR."
+   },
+   "hi": {
+    "t": "ग्रामीण विकास मंत्रालय का RUDSETI अकादमी के साथ समझौता",
+    "b": "इस समझौते से देशभर के RSETI में एकसमान प्रशिक्षण मानक तय होंगे। इसमें कौशल पंजी के माध्यम से पंजीकरण और AEBAS द्वारा आधार-आधारित चेहरा सत्यापन शामिल है। राष्ट्रीय सरस मेला 2026 विजयवाड़ा में हुआ, जो दिल्ली-NCR के बाहर पहली बार आयोजित हुआ।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Finance",
+   "en": {
+    "t": "Cabinet approves sale of 60.72% stake in IDBI Bank",
+    "b": "The CCEA approved the sale of a 60.72% stake in IDBI Bank, worth Rs 52,878.08 crore, to a subsidiary of Fairfax Financial Holding. The government will retain 15% and LIC will hold 19%."
+   },
+   "hi": {
+    "t": "IDBI बैंक में 60.72% हिस्सेदारी की बिक्री को मंजूरी",
+    "b": "CCEA ने IDBI बैंक में 60.72% हिस्सेदारी की बिक्री को मंजूरी दी। यह हिस्सेदारी Fairfax Financial Holding की एक सहायक कंपनी को 52,878.08 करोड़ रुपये में दी जाएगी। बिक्री के बाद सरकार के पास 15% और LIC के पास 19% हिस्सेदारी रहेगी।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Finance",
+   "en": {
+    "t": "SEBI notifies Common Advertisement Code for celebrity endorsements",
+    "b": "SEBI allows celebrity endorsements at brand level but restricts endorsements of specific financial products. The code takes effect on April 8, 2027. SEBI also extended the IPO issue size relaxation to March 31, 2027."
+   },
+   "hi": {
+    "t": "SEBI ने सेलिब्रिटी विज्ञापनों के लिए साझा विज्ञापन संहिता अधिसूचित की",
+    "b": "SEBI ने ब्रांड स्तर पर सेलिब्रिटी समर्थन की अनुमति दी, पर विशिष्ट वित्तीय उत्पादों के समर्थन पर रोक लगाई। यह संहिता 8 अप्रैल 2027 से लागू होगी। IPO इश्यू आकार में छूट की समय-सीमा 31 मार्च 2027 तक बढ़ाई गई।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "International",
+   "en": {
+    "t": "INS Tarkash takes part in IBSAMAR IX 2026 in South Africa",
+    "b": "INS Tarkash joined the 9th edition of the trilateral IBSAMAR naval exercise, hosted by South Africa at Simon's Town, from October 12 to 22, 2026. The theme is 'Stronger Together Towards a Shared Future in the Maritime Domain.'"
+   },
+   "hi": {
+    "t": "INS तरकश IBSAMAR IX 2026 में शामिल",
+    "b": "भारतीय नौसेना का INS तरकश त्रिपक्षीय IBSAMAR अभ्यास के 9वें संस्करण में शामिल हुआ। दक्षिण अफ्रीका के साइमन्स टाउन में 12 से 22 अक्टूबर 2026 तक आयोजित इस अभ्यास की थीम 'समुद्री क्षेत्र में साझा भविष्य की ओर मिलकर' है।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "International",
+   "en": {
+    "t": "NSE International Exchange and London Stock Exchange sign MoU",
+    "b": "The MoU explores dual and cross-listings, trading connectivity, and ETFs and derivatives linked to FTSE Russell indices. It follows the India–UK CETA. No launches have been confirmed yet."
+   },
+   "hi": {
+    "t": "NSE इंटरनेशनल एक्सचेंज और लंदन स्टॉक एक्सचेंज में समझौता",
+    "b": "यह समझौता दोहरी व क्रॉस-लिस्टिंग, ट्रेडिंग कनेक्टिविटी और FTSE Russell सूचकांकों से जुड़े ETF व डेरिवेटिव की संभावनाएँ तलाशेगा। यह भारत-UK CETA के बाद हुआ है। अभी किसी शुरुआत की पुष्टि नहीं हुई है।"
+   }
+  },
+  {
+   "d": "2026-10-14",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Science & Defence",
+   "en": {
+    "t": "DRDO tests Quantum Key Distribution on live military network",
+    "b": "DRDO tested its QKD platform on the live network of the PXE at Chandipur, Odisha. The platform will help secure telemetry from artillery and armoured weapon trials."
+   },
+   "hi": {
+    "t": "DRDO ने क्वांटम की वितरण (QKD) प्रणाली का सैन्य नेटवर्क पर परीक्षण किया",
+    "b": "DRDO ने ओडिशा के चांदीपुर में PXE के लाइव नेटवर्क पर अपने QKD प्लेटफ़ॉर्म का परीक्षण किया। इससे तोपखाने और बख्तरबंद हथियार परीक्षणों के टेलीमेट्री डेटा को सुरक्षित रखने में मदद मिलेगी।"
+   }
+  },
+  {
+   "d": "2026-10",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Defence",
+   "en": {
+    "t": "SDAL delivers 450 Nagastra-1R loitering munitions to Indian Army",
+    "b": "Solar Defence and Aerospace Limited delivered 450 Nagastra-1R loitering munitions to the Army. The drone has more than 80% indigenous components and an endurance of up to 60 minutes."
+   },
+   "hi": {
+    "t": "सोलर डिफेंस ने भारतीय सेना को 450 नागास्त्र-1R लोइटरिंग म्यूनिशन सौंपे",
+    "b": "सोलर डिफेंस एंड एयरोस्पेस लिमिटेड ने सेना को 450 नागास्त्र-1R लोइटरिंग म्यूनिशन दिए। इस ड्रोन में 80% से अधिक स्वदेशी घटक हैं और यह अधिकतम 60 मिनट तक उड़ सकता है।"
+   }
+  },
+  {
+   "d": "2026-10-15",
+   "src": "AffairsCloud, Current Affairs 16 Oct 2026",
+   "url": "https://affairscloud.com/?p=336728",
+   "tag": "Important Day",
+   "en": {
+    "t": "International Day of Rural Women 2026 (15 October)",
+    "b": "The UN observes the day to honour rural and indigenous women's contribution to agriculture and food security. The 2026 theme is 'Rural Women Farmers Caring for Mother Nature.' India's DA&FW organised Mahila Kisan Diwas 2026 in New Delhi."
+   },
+   "hi": {
+    "t": "ग्रामीण महिला दिवस 2026 (15 अक्टूबर)",
+    "b": "संयुक्त राष्ट्र यह दिवस कृषि और खाद्य सुरक्षा में ग्रामीण व आदिवासी महिलाओं के योगदान के सम्मान में मनाता है। 2026 की थीम 'ग्रामीण महिला किसान: प्रकृति की देखभाल' है। भारत में कृषि एवं किसान कल्याण विभाग ने नई दिल्ली में महिला किसान दिवस 2026 आयोजित किया।"
+   }
+  }
+ ],
+ "questions": [
+  {
+   "subj": "maths",
+   "tier": 1,
+   "t": "Percentage",
+   "q": [
+    "A number is increased by 20% and then decreased by 20%. What is the net change?",
+    "एक संख्या को 20% बढ़ाकर फिर 20% घटाया जाता है। शुद्ध परिवर्तन क्या है?"
+   ],
+   "o": [
+    [
+     "4% decrease",
+     "4% की कमी"
+    ],
+    [
+     "4% increase",
+     "4% की वृद्धि"
+    ],
+    [
+     "No change",
+     "कोई परिवर्तन नहीं"
+    ],
+    [
+     "2% decrease",
+     "2% की कमी"
+    ]
+   ],
+   "a": 0,
+   "e": [
+    "1.2 × 0.8 = 0.96, so the value falls by 4%.",
+    "1.2 × 0.8 = 0.96, अतः मान में 4% की कमी होती है।"
+   ]
+  },
+  {
+   "subj": "maths",
+   "tier": 1,
+   "t": "Percentage",
+   "q": [
+    "What is 15% of 240?",
+    "240 का 15% कितना होगा?"
+   ],
+   "o": [
+    "32",
+    "36",
+    "40",
+    "28"
+   ],
+   "a": 1,
+   "e": [
+    "15% of 240 = 240 × 15/100 = 36",
+    "240 का 15% = 240 × 15/100 = 36"
+   ]
+  },
+  {
+   "subj": "maths",
+   "tier": 1,
+   "t": "Number System",
+   "q": [
+    "What is the LCM of 12 and 18?",
+    "12 और 18 का LCM क्या है?"
+   ],
+   "o": [
+    "6",
+    "36",
+    "72",
+    "24"
+   ],
+   "a": 1,
+   "e": [
+    "12 = 2²×3, 18 = 2×3²; LCM = 2²×3² = 36",
+    "12 = 2²×3, 18 = 2×3²; LCM = 2²×3² = 36"
+   ]
+  },
+  {
+   "subj": "reasoning",
+   "tier": 1,
+   "t": "Number Series",
+   "q": [
+    "Find the odd one out: 3, 5, 9, 11",
+    "विषम संख्या चुनिए: 3, 5, 9, 11"
+   ],
+   "o": [
+    "3",
+    "5",
+    "9",
+    "11"
+   ],
+   "a": 2,
+   "e": [
+    "3, 5 and 11 are prime; 9 is not.",
+    "3, 5 और 11 अभाज्य हैं; 9 अभाज्य नहीं है।"
+   ]
+  },
+  {
+   "subj": "reasoning",
+   "tier": 1,
+   "t": "Number Series",
+   "q": [
+    "Find the next number: 2, 6, 12, 20, 30, ?",
+    "अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"
+   ],
+   "o": [
+    "40",
+    "42",
+    "44",
+    "36"
+   ],
+   "a": 1,
+   "e": [
+    "Differences are 4, 6, 8, 10, 12, so the next term is 30 + 12 = 42.",
+    "अंतर 4, 6, 8, 10, 12 हैं, अतः अगला पद 30 + 12 = 42 है।"
+   ]
+  },
+  {
+   "subj": "reasoning",
+   "tier": 1,
+   "t": "Blood Relations",
+   "q": [
+    "A is the brother of B. B is the sister of C. How is A related to C?",
+    "A, B का भाई है। B, C की बहन है। A, C का कौन है?"
+   ],
+   "o": [
+    [
+     "Brother",
+     "भाई"
+    ],
+    [
+     "Sister",
+     "बहन"
+    ],
+    [
+     "Father",
+     "पिता"
+    ],
+    [
+     "Uncle",
+     "चाचा/मामा"
+    ]
+   ],
+   "a": 0,
+   "e": [
+    "A is B’s brother and B is C’s sister, so A is C’s brother.",
+    "A, B का भाई है और B, C की बहन है, अतः A, C का भाई है।"
+   ]
+  },
+  {
+   "subj": "english",
+   "tier": 1,
+   "t": "Synonyms",
+   "q": [
+    "Choose the synonym of ‘ABUNDANT’.",
+    "‘ABUNDANT’ का समानार्थी शब्द चुनिए।"
+   ],
+   "o": [
+    "Scarce",
+    "Plentiful",
+    "Rare",
+    "Empty"
+   ],
+   "a": 1,
+   "e": [
+    "Abundant means existing in large quantity, like plentiful.",
+    "Abundant का अर्थ है बड़ी मात्रा में उपलब्ध, जैसे plentiful।"
+   ]
+  },
+  {
+   "subj": "english",
+   "tier": 1,
+   "t": "Fill in the Blanks",
+   "q": [
+    "She ___ to school every day.",
+    "वह हर दिन स्कूल ___ है।"
+   ],
+   "o": [
+    "go",
+    "goes",
+    "gone",
+    "going"
+   ],
+   "a": 1,
+   "e": [
+    "With a singular subject (she) in simple present, use ‘goes’.",
+    "एकवचन कर्ता (she) के साथ simple present में ‘goes’ आता है।"
+   ]
+  },
+  {
+   "subj": "english",
+   "tier": 1,
+   "t": "Idioms",
+   "q": [
+    "What does the idiom ‘Bite the bullet’ mean?",
+    "मुहावरे ‘Bite the bullet’ का अर्थ क्या है?"
+   ],
+   "o": [
+    [
+     "Eat quickly",
+     "जल्दी खाना"
+    ],
+    [
+     "Face a difficult situation bravely",
+     "कठिन स्थिति का साहस से सामना करना"
+    ],
+    [
+     "Stop working",
+     "काम बंद करना"
+    ],
+    [
+     "Become angry",
+     "क्रोधित होना"
+    ]
+   ],
+   "a": 1,
+   "e": [
+    "It means to endure a painful or difficult situation bravely.",
+    "इसका अर्थ है कठिन या दर्दनाक स्थिति को साहस से झेलना।"
+   ]
+  },
+  {
+   "subj": "gk",
+   "tier": 1,
+   "t": "Important Persons",
+   "q": [
+    "Who was the first Indian to travel into space?",
+    "अंतरिक्ष की यात्रा करने वाले पहले भारतीय कौन थे?"
+   ],
+   "o": [
+    "Kalpana Chawla",
+    "Rakesh Sharma",
+    "Sunita Williams",
+    "Vikram Sarabhai"
+   ],
+   "a": 1,
+   "e": [
+    "Rakesh Sharma flew to space in 1984 aboard Soyuz T-11.",
+    "राकेश शर्मा 1984 में सोयुज T-11 से अंतरिक्ष गए थे।"
+   ]
+  },
+  {
+   "subj": "gk",
+   "tier": 1,
+   "t": "Static GK",
+   "q": [
+    "What is the capital of Bhutan?",
+    "भूटान की राजधानी क्या है?"
+   ],
+   "o": [
+    "Paro",
+    "Thimphu",
+    "Kathmandu",
+    "Dhaka"
+   ],
+   "a": 1,
+   "e": [
+    "The capital of Bhutan is Thimphu.",
+    "भूटान की राजधानी थिम्पू है।"
+   ]
+  }
+ ]
+}

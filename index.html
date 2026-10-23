@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>PrepTrack by UD</title>
+<meta name="description" content="PrepTrack by UD — SSC exam study tracker: timer, daily goals, 50-question practice, reports, flashcards, mock tests.">
+<meta name="application-name" content="PrepTrack by UD">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="PrepTrack">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#1d2b53">
+<meta name="color-scheme" content="light dark">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="icons/icon.ico" sizes="any">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top" id="top">
+  <div class="wrap">
+    <div class="row">
+      <div class="brand">
+        <img src="icons/icon-96.png" alt="">
+        <div><b>PrepTrack by UD</b><small>SSC exam study tracker</small></div>
+      </div>
+      <div class="row" style="gap:6px">
+        <button class="chip hidden" id="install-btn" type="button">⬇ Install app</button>
+        <button class="chip" id="sync-btn" type="button" aria-label="Sync today's data">🔄 Sync</button>
+        <button class="chip" id="theme-btn" type="button" aria-label="Toggle theme">🌓</button>
+        <button class="chip" id="u-chip" type="button" aria-label="Profile"><span id="u-name">Profile</span></button>
+      </div>
+    </div>
+    <div class="tierbar">
+      <div class="seg" role="tablist" aria-label="Tier">
+        <button type="button" data-tier="1">Tier-I</button>
+        <button type="button" data-tier="2">Tier-II</button>
+      </div>
+      <select id="exam-sel" aria-label="Exam"></select>
+      <button class="countdown-pill" id="cd-pill" type="button">🎯 Set exam date</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap hidden" id="app">
+  <section class="hero" id="hero" aria-label="Study tracker"></section>
+  <div class="cards" id="cards" aria-label="Study sections"></div>
+  <p class="footer">Tap a card to open it — one section at a time. Your progress is saved on this device.</p>
+</main>
+
+<div class="toast hidden" id="toast" role="status" aria-live="polite"></div>
+
+<noscript><p style="padding:20px">PrepTrack needs JavaScript enabled.</p></noscript>
+
+<script src="js/core.js"></script>
+<script src="js/exams.js"></script>
+<script src="js/data-tables.js"></script>
+<script src="js/data-gk.js"></script>
+<script src="js/data-english.js"></script>
+<script src="js/gen-quant.js"></script>
+<script src="js/gen-reason.js"></script>
+<script src="js/gen-lang.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/practice.js"></script>
+<script src="js/cards.js"></script>
+<script src="js/data-states.js"></script>
+<script src="js/data-world.js"></script>
+<script src="js/data-orgs.js"></script>
+<script src="js/data-mains.js"></script>
+<script src="js/data-hi.js"></script>
+<script src="js/data-hi-world.js"></script>
+<script src="js/maps.js"></script>
+<script>
+(function () {
+  /* PWA install (Chrome / Edge on Windows and Android) */
+  var deferred = null, btn = document.getElementById('install-btn');
+  window.addEventListener('beforeinstallprompt', function (e) { e.preventDefault(); deferred = e; btn.classList.remove('hidden'); });
+  btn.addEventListener('click', function () {
+    if (!deferred) { alert('To install: open the browser menu (⋮) and choose “Install app” or “Add to Home screen”.'); return; }
+    deferred.prompt(); deferred.userChoice.then(function () { deferred = null; btn.classList.add('hidden'); });
+  });
+  window.addEventListener('appinstalled', function () { btn.classList.add('hidden'); });
+  /* offline cache (only when served over http(s)) */
+  if ('serviceWorker' in navigator && /^https?:/.test(location.protocol)) {
+    navigator.serviceWorker.register('sw.js').catch(function () { });
+  }
+  /* system back / Escape closes overlays and open cards */
+  if (window.PT) { /* core wires Escape; Android back is handled by the app shell */ }
+})();
+</script>
+</body>
+</html>
